@@ -34,7 +34,7 @@ typedef struct s_list{
 	struct s_zone zone;
 }t_list;
 
-typedef structs_list_container{
+typedef struct s_list_container{
 	struct s_list *first;
 	struct s_list *last;
 }t_lc;
