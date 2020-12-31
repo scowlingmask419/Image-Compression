@@ -26,6 +26,7 @@ void test_encode(t_qt *qt);
  * Param last dernier element
 */ 
 void test_lstorder(t_list *l_dist, t_list *last);
+
 /*
  * Fonction permettant de parcourir l'arbre et l'afficher test
  * Param qt quadtree a tester
